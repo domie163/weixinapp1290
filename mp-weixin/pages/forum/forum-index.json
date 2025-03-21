@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#4b6973",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "全部发帖",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-drawer": "/uni_modules/uni-drawer/components/uni-drawer/uni-drawer",
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons",
+    "uni-notice-bar": "/components/uni-ui/lib/uni-notice-bar/uni-notice-bar"
+  }
+}

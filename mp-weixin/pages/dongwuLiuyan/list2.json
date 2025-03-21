@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4b6973",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的求助留言",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

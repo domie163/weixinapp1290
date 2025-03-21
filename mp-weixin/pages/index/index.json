@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4b6973",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "流浪动物救助小程序首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

@@ -1,0 +1,396 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#4b6973",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/chongwu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠展示"
+		}
+	},{
+		"path": "pages/chongwu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的寻宠"
+		}
+	},{
+		"path": "pages/chongwu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠添加/修改"
+		}
+	},{
+		"path": "pages/chongwu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠详情"
+		}
+	}
+	,{
+		"path": "pages/chongwuCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠收藏展示"
+		}
+	},{
+		"path": "pages/chongwuCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的寻宠收藏"
+		}
+	},{
+		"path": "pages/chongwuCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠收藏添加/修改"
+		}
+	},{
+		"path": "pages/chongwuCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠收藏详情"
+		}
+	}
+	,{
+		"path": "pages/chongwuLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠留言展示"
+		}
+	},{
+		"path": "pages/chongwuLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的寻宠留言"
+		}
+	},{
+		"path": "pages/chongwuLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠留言添加/修改"
+		}
+	},{
+		"path": "pages/chongwuLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "寻宠留言详情"
+		}
+	}
+	,{
+		"path": "pages/dongwu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "动物求助展示"
+		}
+	},{
+		"path": "pages/dongwu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的动物求助"
+		}
+	},{
+		"path": "pages/dongwu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "动物求助添加/修改"
+		}
+	},{
+		"path": "pages/dongwu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "动物求助详情"
+		}
+	}
+	,{
+		"path": "pages/dongwuCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助收藏展示"
+		}
+	},{
+		"path": "pages/dongwuCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的求助收藏"
+		}
+	},{
+		"path": "pages/dongwuCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助收藏添加/修改"
+		}
+	},{
+		"path": "pages/dongwuCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助收藏详情"
+		}
+	}
+	,{
+		"path": "pages/dongwuLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助留言展示"
+		}
+	},{
+		"path": "pages/dongwuLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的求助留言"
+		}
+	},{
+		"path": "pages/dongwuLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助留言添加/修改"
+		}
+	},{
+		"path": "pages/dongwuLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "求助留言详情"
+		}
+	}
+	,{
+		"path": "pages/dongwuYuyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "领养信息展示"
+		}
+	},{
+		"path": "pages/dongwuYuyue/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的领养信息"
+		}
+	},{
+		"path": "pages/dongwuYuyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "领养信息添加/修改"
+		}
+	},{
+		"path": "pages/dongwuYuyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "领养信息详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告通知展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告通知"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告通知添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告通知详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#4b6973",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "流浪动物救助小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "流浪动物救助小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#6c9aad",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/chongwu/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "寻宠"
+			}
+			,{
+				"pagePath": "pages/dongwu/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "动物求助"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
